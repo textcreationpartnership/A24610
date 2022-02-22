@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of Saint Sebastian in relation to their government, customs and trade with a draught of the place / by one lately come from thence.</title>
+            <author>One lately come from thence.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24610</idno>
+            <idno type="STC">Wing A221</idno>
+            <idno type="STC">ESTC R9688</idno>
+            <idno type="EEBO-CITATION">12925293</idno>
+            <idno type="OCLC">ocm 12925293</idno>
+            <idno type="VID">95515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of Saint Sebastian in relation to their government, customs and trade with a draught of the place / by one lately come from thence.</title>
+                  <author>One lately come from thence.</author>
+               </titleStmt>
+               <extent>[5], 22 p. : folded plan  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hugh Newman, and are to be sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>San Sebastián (Spain) --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:95515:1"/>
+            <pb facs="tcp:95515:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF <hi rend="blackletterType">Saint Sebaſtian.</hi>
+            </p>
+         </div>
+         <div type="prospect">
+            <pb facs="tcp:95515:2"/>
+            <pb facs="tcp:95515:2"/>
+            <p>
+               <figure>
+                  <figDesc>prospect of the castle of San Sebastian, Spain</figDesc>
+                  <head>A PROSPECT of the Castle of S<hi rend="sup">t</hi> Sebastien from the South &amp; Groundplott of the Town and Harbor:</head>
+                  <p>
+                     <list>
+                        <item>D the Harbor or Mole</item>
+                        <item>E the Peer Gate</item>
+                        <item>F the Pa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>age Gate</item>
+                        <item>G the Market place</item>
+                        <item>H the Town houſe and Magazine</item>
+                        <item>L y<hi rend="sup">e</hi> hor<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95515:3"/>
+            <pb facs="tcp:95515:3"/>
+            <p>AN ACCOUNT OF <hi rend="blackletterType">Saint Sebaſtian,</hi> IN Relation to their <hi>GOVERNMENT, C<g ref="char:V">Ʋ</g>STOMS</hi> and <hi>TRADE.</hi> With a Draught of the Place.</p>
+            <p>By one lately come from thence.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Hugh Newman,</hi> and are to be ſold by <hi>A. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in
+<hi>Warwick-Lane.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:95515:4"/>
+            <pb n="1" facs="tcp:95515:4"/>
+            <head>AN ACCOUNT, <hi>&amp;c.</hi>
+            </head>
+            <p>SAint <hi>Sebaſtian</hi> in the Province of
+<hi>Guipoſcoa,</hi> in the Kingdom of <hi>Caſtile,</hi> is a free Town, in man<g ref="char:EOLhyphen"/>ner of a Republick; ſubjected to the Crown <hi>Caſtile,</hi> on Conditions approved on by the Kings of <hi>Spain:</hi> And in all their Writings, they ſtyle it,</p>
+            <p>
+               <hi>The Most Noble and Most Loyal City of Saint</hi> Sebaſtian.</p>
+            <p>The Kings of <hi>Spain,</hi> have given them this Ti<g ref="char:EOLhyphen"/>tle for ſervices they did the Crown.</p>
+            <p>The Province of <hi>Guipoſcoa</hi> enjoys great Frivi<g ref="char:EOLhyphen"/>ledges, and do not obey the Kings Orders, when that which is required of them, is contrary to<pb n="2" facs="tcp:95515:5"/>the Priviledges and Liberties of the Province. Which is Governed thus,</p>
+            <p>Every Year there is a Convocation or Aſſem<g ref="char:EOLhyphen"/>bly, whether every Town does ſend their De<g ref="char:EOLhyphen"/>puties to Concert Affairs relating to their County or province. Their Meeting is in four different places by turns, and they are call'd.</p>
+            <p>Saint <hi>Sebaſtian, Toloza, Aſpeytia</hi> and
+<hi>Aſcoytia.</hi>
+            </p>
+            <p>The head or chief of ſuch that are choſen for the Governing this Province, is a Judge Call'd <hi>Cor<g ref="char:EOLhyphen"/>rigidor,</hi> who is as Lord
+<hi>Lieutenant</hi> of a County, or <hi>Intendant</hi> of a Province. It's to him the King ſends his Orders to be Executed in the County. Beſides this
+<hi>Corrigidor,</hi> There is choſen for the Governing the ſaid Province a
+<hi>Deputation</hi> (ſo cal<g ref="char:EOLhyphen"/>led by the <hi>Spaniards</hi>) conſiſting of ſeveral re<g ref="char:EOLhyphen"/>preſentatives of the ſeveral places in the ſaid Pro<g ref="char:EOLhyphen"/>vince, who have Power of refuſing the Kings Orders ſerved to them by the
+<hi>Corrigidor,</hi> if that any ſuch Orders or Commiſſion preſented them are againſt the Rights of the <hi>Deputation,</hi> or pla<g ref="char:EOLhyphen"/>ces whom they repreſent; But if the Kings Com<g ref="char:EOLhyphen"/>miſſion or Orders to the
+<hi>Corrigidor,</hi> does not con<g ref="char:EOLhyphen"/>tradict the Rights of the
+<hi>Deputation,</hi> they let him put them in Execution to the full. For Ex<g ref="char:EOLhyphen"/>ample,</p>
+            <p>
+               <pb n="3" facs="tcp:95515:5"/>When the King asks of the ſaid province to ſupply him with a certain number of Men, ei<g ref="char:EOLhyphen"/>ther Landmen, or Seamen; The
+<hi>Corrigidor</hi> ſerves the Kings Orders to the Province and acquaints the
+<hi>Deputation:</hi> They tell him they are a free People, and that they cannot oblidge any Inha<g ref="char:EOLhyphen"/>bitant to leave his Family to ſerve the King: But when they find that the demand is not againſt their Liberties and Rights, they are ſo civil to give the King leave to order Drum to be beat, and they will not oppoſe it; otherwiſe they do as in the Caſe of the <hi>Corrigidor</hi> Duke <hi>Corſano</hi> a few years ago, who requiring of this province of
+<hi>Guipoſcoa,</hi> and in particular of the City of Saint
+<hi>Sebaſtian,</hi> ſome things contrary to their Priviledg<g ref="char:EOLhyphen"/>es (which I ſhall not mention) They preſent<g ref="char:EOLhyphen"/>ed their <hi>Leij Secundo,</hi> or Charter in one hand and a Sword in the other, with Orders to him in four hours to leave the Province, the Duke was fain to ſcowr for it.</p>
+            <p>The Government of the City of Saint <hi>Sebaſtian,</hi> whoſe Magiſtrates are choſen once a Year, about a week before
+<hi>Chriſtmas,</hi> is thus.</p>
+            <p>There is about an hundred Electors, who muſt be qualified as you'll hear hereafter (for no bo<g ref="char:EOLhyphen"/>dy can be of the Government of Saint
+<hi>Sebaſtian,</hi>
+               <pb n="2" facs="tcp:95515:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:95515:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:95515:7"/>nor of the province, nor indeed of the leaſt Vil<g ref="char:EOLhyphen"/>lage, till he has proved his <hi>Higuidalquir, Viz.</hi> (That he is Noble).</p>
+            <p>Their Magiſtrates are choſen thus.</p>
+            <p>There is a great Silver Bowl, into which is put confuſedly all the Electors Names: The firſt eight that a Boy (like one of our Blew Coat Boys) takes out, are thoſe who are to be <hi>Alcai<g ref="char:EOLhyphen"/>jde, Subalcaijde, Syndect,</hi> Magiſtrates and Jurates for the following Year.</p>
+            <p>Theſe eight Name every one of them, one to be <hi>Alcaijde</hi> and <hi>Subalcaijde,</hi> the firſt two of theſe eight, the Boy takes out, are <hi>Alcaijd</hi> and <hi>Subalcaijde,</hi> the firſt <hi>Alcaijde,</hi> the ſecond <hi>Subal<g ref="char:EOLhyphen"/>cajde,</hi> and ſo after the ſame manner of the
+<hi>Syn<g ref="char:EOLhyphen"/>dect</hi> and other Officers.</p>
+            <p>Notwithſtanding this fair way of chooſing their Magiſtrates, there is Faction and Intereſt made to get in their friends into the Magiſtracy, they are generally very poor, diſpiſing Induſtry and Arts; and when they come to Govern or to be <hi>Alcaijde,</hi> have opportunities of exacting even up<g ref="char:EOLhyphen"/>on their own people as well as ſtrangers, and which they make no ſcruple of doing in the face<pb n="5" facs="tcp:95515:7"/>of the World. I could relate ſeveral particulars to my Knowledge, but that I ſhould expoſe them too much: and indeed, it would hardly be be<g ref="char:EOLhyphen"/>lieved that ſuch tricks and little things were pra<g ref="char:EOLhyphen"/>ctiſed in <hi>Spain,</hi> where every one from the higheſt to the loweſt, value themſelves on their Families, Nobility and
+<hi>Punctilio's</hi> of Honour.</p>
+            <p>In order to be thus qualified to get into the Government (as I ſaid before),</p>
+            <p>They muſt be Noble.</p>
+            <p>Their Nobility is thus, not to have had any of their Kindred a
+<hi>Jew, Moor, Turk,</hi> or <hi>Here<g ref="char:EOLhyphen"/>tick.</hi>
+            </p>
+            <p>And to prove this, the Perſon that would be of the Government, preſents a requeſt to the Pro<g ref="char:EOLhyphen"/>vince of <hi>Guipoſcoa,</hi> in which is explained his in<g ref="char:EOLhyphen"/>tention, and asks to be a <hi>Cavallero Dillegenzero, Viz.</hi> That his Birth and Eſtate may be enquired into, in order to his being made a Noble<g ref="char:EOLhyphen"/>man.</p>
+            <p>The Province or Town orders their <hi>Syndect,</hi> whoſe buſineſs it is to enquire into his Family (and for which he has a Piſtol a day) to go to<pb n="6" facs="tcp:95515:8"/>the place of his Birth along with him, and there take both private, as well as publick informati<g ref="char:EOLhyphen"/>ons of his Family, which afterwards he reports to the Province or Magiſtrates of the place, where ſuch a one would be of the Government; if the report is allowed, the
+<hi>Cavallero Dilligenzero,</hi> is declared Noble.</p>
+            <p>Beſides theſe qualifications already mentioned.</p>
+            <p>There is one yet very remarkable and with<g ref="char:EOLhyphen"/>out it, if they were deſcended from <hi>Caeſars</hi> or <hi>A<g ref="char:EOLhyphen"/>chilles</hi> Race, they cannot be Noble, <hi>Viz.</hi>
+            </p>
+            <p>If they live, or are to live in Town, they muſt have a Houſe of their own, or elſe they muſt have Land enough in the Province where<g ref="char:EOLhyphen"/>on they have two Thouſand Apple-Trees, or whereon they may raiſe two Thouſand Apple-Trees, and then the <hi>Cavallero Dilligenzero,</hi> is ad<g ref="char:EOLhyphen"/>mitted and made Capable of being admitted into the Government. No Man can be Noble by his Wife, or by her Eſtate:</p>
+            <p>The Town of Saint <hi>Sebaſtian,</hi> is ſeated, as you ſee by the Draught, on the <hi>South</hi> ſide, and at the bottom of a high Hill of Freeſtone in a ſquare form, the Town is hid by the Hill as you make
+<pb n="7" facs="tcp:95515:8"/>towards the Land and is not to be ſeen, till you are in the Road.</p>
+            <p>There are two Gates, that of the <hi>Peer,</hi> and the other that's called the <hi>Paſſage Gate,</hi> from which, goes a Road to
+<hi>Paſſage,</hi> a Noble Harbour; There is a Horn work with a Ravelin before it that co<g ref="char:EOLhyphen"/>vers the <hi>Paſſage Gate,</hi> and but very ordinary and in ill repair, and out of all due Propor<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Caſtle upon the top of the Hill ſtands prettily, a Noble Proſpect from it all along that part of the <hi>Bay</hi> of
+<hi>Biſcay,</hi> from <hi>Cape Martinchauco</hi> to <hi>Arkaſon</hi> and
+<hi>Cabritton</hi> in <hi>France.</hi> The going up, or acceſs to this Caſtle is difficult, which adds to the ſtrength of it, and I think all that can be ſaid juſtly of this Caſtle is this, and that is all Altho the
+<hi>Spaniards</hi> are extream Proud of it, and quote you <hi>Charlequin,</hi> who ſaid in Praiſe of it (if you'll believe them) that if he ſhould looſe all <hi>Spain,</hi> and had only the Caſtle of Saint
+<hi>Sebaſtian,</hi> he would recover it.</p>
+            <p>The Caſtle was blown up by the <hi>Magaſines</hi> ta<g ref="char:EOLhyphen"/>ing fire, but is now rebuilt and in good repair; all the Water in the Caſtle is rain Water, which is Conveyed into a Well by Leaden Pipes from<pb n="8" facs="tcp:95515:9"/>the Roof of the Guard Room, and <hi>Barraques,</hi> which are indeed very fine and capable of Lodg<g ref="char:EOLhyphen"/>ing two Thouſand Men Conveniently.</p>
+            <p>The Garriſon at preſent, conſiſts of a Sergeant and ſix Men, which by detachment from the main Guard (which does not conſiſt of above twelve, beſides a Governour, Captain, Lieutenant and Enſign) is relieved every day by the like num<g ref="char:EOLhyphen"/>ber, and by ſometimes a leſſer. The Souldiers are all beggars, and if a ſtranger refuſes to give them ſomething, they contrive to do him miſ<g ref="char:EOLhyphen"/>chief.</p>
+            <p>There are two Platforms mounted with Guns, I ſuppoſe deſigned to ſecure the Harbour and Play on Ships that would force themſelves into the Road, they are too high to be of any uſe to them, as well as the Caſtle for this purpoſe.</p>
+            <p>In the mouth of the Harbour there is a Hill called Saint
+<hi>Claire,</hi> where there was three months ago a <hi>Hermit</hi> of the order of Saint <hi>Francis,</hi> who tells twenty Legends and Stories, and helps to fill the Casks with Wine, as he mud live by begging, ſo the Poor old fellow will be every day as drunk as a beggar; for this reaſon they ſay, they turned him out of his. Cell, but it's believed<pb n="9" facs="tcp:95515:9"/>rather it was to make room for one that is now there, a Gentleman of a conſiderable Eſtate in the Kingdom of <hi>Castile,</hi> for reaſons, he has his Eſtate Men from him, and is confined to this <hi>Iſland</hi> as a <hi>Hermit,</hi> to beg his Bread for four<g ref="char:EOLhyphen"/>teen Years, and then returns to his Eſtate again: The Church and Clergy enjoys his Eſtate in the mean time.</p>
+            <p>All that Dye <hi>Hereticks</hi> are buried here; when the Corps is carried out of Town to be waft<g ref="char:EOLhyphen"/>ed over to this <hi>Iſland</hi> to be Buried, the Mob of Men and Women follow Inſulting over the Corps, Crying aloud,
+<hi>He goes to Hell.</hi> The <hi>Hermit</hi> has the benefit of the ground on his <hi>Iſland</hi> and ſells it as he thinks fit.</p>
+            <p>To give the Clergy their due, they are not ſo troubleſome to ſtrangers when they are ſick and a dying, altho <hi>Hereticks,</hi> with their extream Unction and Wafers as in <hi>France.</hi>
+            </p>
+            <p>The coming into the Road, and over the <hi>Bar</hi> of Saint
+<hi>Sebaſtian</hi> is difficult, unleſs with a leading Wind, a great Rock lies under Water in the middle of the <hi>Bar.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:95515:10"/>But to run no hazard, the Pilots will force them<g ref="char:EOLhyphen"/>ſelves on board of you, which is commendable e<g ref="char:EOLhyphen"/>nough if it was not on deſign to impoſe upon you, and make one pay what they pleaſe and no help for it, nor no Juſtice done if you complain. The <hi>Conſul</hi> and
+<hi>Merchant</hi> ſtrangers reſiding at Saint <hi>Sebaſtian,</hi> have brought them to ſome bet<g ref="char:EOLhyphen"/>ter reaſon and to Compoſition, but for all that, it is ſtill as they pleaſe, every Fiſherman looks upon himſelf as good as <hi>Signior Alcaijde</hi> himſelf; So that a Man muſt ſit down under all affronts and hardſhips and be quiet.</p>
+            <p>Their way of living at Saint <hi>Sebaſtian.</hi>
+            </p>
+            <p>People that are of the better ſort and diſtinguiſh<g ref="char:EOLhyphen"/>able, after having enjoyed the Muſick of <hi>Serenading</hi> little before day, they get up and drink Chocolet, without which they would not ſtir abroad if their houſe was on fire, then they take, both Men and Women, a great deal of pains with their hair, dreſs themſelves and go to Church, they and their Prieſts underſtand what they Pray to God for much alike, for not one of twenty of their Clergy underſtands <hi>Latin.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:95515:10"/>After Maſs the Men go to the <hi>Peer,</hi> where they tarry till eleven of the Clock, then they go to the middle of the Town called the four <hi>Corners,</hi> where they ſtay till twelve, after it has ſtruck, if it was to ſave the Town they would not ſtay a minute longer, and oftentimes break off in the middle of a Story or ſentence, to go home to their <hi>Olio.</hi> The firſt thing preſented at their Tables is a Chocolet Cup of Soup, or the gravey of meat boiled and Bread crumbled into it, ſerved upon Earthen Platters, then comes the Roaſt Meat, then the Boiled, and at laſt the deſert.</p>
+            <p>They give this reaſon of bringing the Roaſt Meat before the Boiled (which ſeems plauſible e<g ref="char:EOLhyphen"/>nough) the beſt of the Boiled Meat ſay they is in the broth, and there is more ſubſtance and nouriſhment in the Roaſt than in the Boyled, for that reaſon, this would paſs if they did not ſpoil their Roaſt Meat and Fowl by over-doing of them, and Roaſting them dry as they do their Boiled Meat, by Boiling it to Pieces.</p>
+            <p>But moſt People think it's rather in oppoſition to the reſt of the World, for they ſhow it almoſt in every little thing elſe; Syder they have cheap, and abundance of ſweet Apples very large all
+<pb n="12" facs="tcp:95515:11"/>round the Country. The Corn of the Country is
+<hi>Indian</hi> Corn and no other, with Wheat they are ſupplied from the
+<hi>Sound</hi> and ſometimes from <hi>Bar<g ref="char:EOLhyphen"/>bary,</hi> and often from
+<hi>England;</hi> They have been ſo hard put to it this laſt Year, that they have been forced to make Bread of Cheſnuts, which is the reaſon they are Prohibited to be Exported. They have extraordinary good Rabbits of
+<hi>Na<g ref="char:EOLhyphen"/>var</hi> and Wild Fowl plenty, their Pidgeons are much eſteemed, and their red Partridge of <hi>Arra<g ref="char:EOLhyphen"/>gon,</hi> are excellent and large.</p>
+            <p>Fiſh they have plenty and of good ſorts, if they'll be at the pains to catch it, and if the Sea, (which with a <hi>North-West</hi> blowing wind flyes high on the <hi>Bar,</hi> and even up almoſt to the top of the
+<hi>Iſland</hi> Saint <hi>Clair,</hi> about ſix hun<g ref="char:EOLhyphen"/>dred Foot) will permit; the Sea oftentimes in the Harbour flyes to the top of the Walls forty Foot high and more.</p>
+            <p>When the Fiſhermen come from Sea with their Boats, their Wives are ſitting on die <hi>Peer</hi> with their Husbands Cloaks and long Spadas, or long Rapiers, the Husband walks in State into the Town, and his Wife carries the Basket of Fiſh on her head to the Market place and ſells them. Billingſ-gate Language and Noiſe is nothing to<pb n="13" facs="tcp:95515:11"/>what the Fiſher-Men and Apple-Women make at Saint <hi>Sebaſtian,</hi> they are always Quarrelling and will Cuff heartily, and will not be friends under a Week. Their common language is <hi>Baſque,</hi> which is as much different from <hi>Spaniſh</hi> as <hi>Welch</hi> from <hi>Engliſh.</hi>
+            </p>
+            <p>Their Houſes are Lofty and Stately, only covered with Pan-tiles, and becauſe of great unexpected Squales of Wind which happen here often, they lay great ſtones on the Pan-tiles to keep them faſt, ſometimes both Stones and Pan-tiles are fetched down by Storms of Wind, and their ſtreets being narrow, it is dan<g ref="char:EOLhyphen"/>gerous then to walk the ſtreets. Their rooms are large, but only one Chimney in a Houſe of five rooms of a floor, and four or five ſtories high, and that at the top of the Houſe. They live all Winter in the up<g ref="char:EOLhyphen"/>per Stories to enjoy the benefit of the Sun, and in the lower Rooms in Summer. It is very hot here, the re<g ref="char:EOLhyphen"/>flection of the Sun from the Caſtle Hill on one hand, and from the Sand in the Vale on the other, is the cauſe that it is hotter here than in many places of a more <hi>Southern</hi> Latitude. Their Beds are finely Carved and Gilded, but very hard to lye on, their Curtains, are of Linnen Laced at every half yard broad, but not wide enough to draw round the Bed, they have few or no Glaſs Windows, only Latices, their Beds ſtand all in <hi>Alcoves.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:95515:12"/>Merchant ſtrangers unleſs Married with a
+<hi>Spaniſh</hi> Woman, have not the Liberty to hire Houſes, but muſt get one of the Town to hire them, and live in it with him, and they generally go ſnacks with the Merchants in their profits.</p>
+            <p>From Dinner they go to ſleep till two or three, and then go out of Town between die <hi>Horn-Work</hi> and the <hi>Town Wall,</hi> there they tarry all the After<g ref="char:EOLhyphen"/>noon, either Playing, or looking on thoſe that play at Tennis and Ninepins: Their Tennis Court is in the open Air and rough Paved, yet they are very expert in toſſing the Ball.</p>
+            <p>In the Winter they paſs their time till eight of the Clock at Night in private Houſes, or at an Aſſem<g ref="char:EOLhyphen"/>bly, where every one that comes in, Pays ſix pence; he may either pick up a party to Play at Cards, or ſit and ſee others Play, and Talk, and Call for three or four Glaſſes of Wine; if they ſtay beyond eight, the Mayor ſends his <hi>Algoſins,</hi> and makes Money of the Company, as well as of him that entertains them after ſuch an hour. Sometimes the Clock ſtrikes eight when it is but ſeven, if the Mayor wants a little Money.</p>
+            <p>
+               <pb n="15" facs="tcp:95515:12"/>The Men are very tight in their
+<hi>Spaniſh</hi> Garb, their long Spadas, their ſilk ſtockings and ſlaſh'd ſhoes; the Women modeſtly and odly attired, all of them go Vailed, their Vails very large, gathered at the bottom in ſuch a manner, that as they walk their Vails ſit as full blown about them as the Sails of a Ship before the Wind; their petticoats are proportionable, and the Ladies, who generally all ſit on the ground or floor, have ſuch an addreſs when they ſit down to ſling their Petticoats out in a round, that modeſtly ſpeaking, they take, up more room than any Mil<g ref="char:EOLhyphen"/>ſtone in <hi>England</hi> does in circumference, and the Wind gathered under their Coats by the turn they make, is ſo long of getting out, that by degrees as their Coats fall, they find a cool breeſe that is very refreſhing to them in ſo hot a Climate: They ſel<g ref="char:EOLhyphen"/>dom ſtir abroad, the better ſort but to Church, and even then without a great deal of Jealouſie of an ill natur'd Husband; they have pretty Faces, black Eyes, and would look about them, as Women do in other Countreys if they durſt.</p>
+            <p>The Prieſts are the only happy Men that enjoy the Ladies Company; Who are about eighty in all, their revenue is but ſmall, they live merry lives, eat and drink of the beſt, in private Houſes, where they are
+<pb n="16" facs="tcp:95515:13"/>always welcome, few or none of them, but have three or four Children and no reflection on them.</p>
+            <p>When a Prieſt would lay with a Woman, he ob<g ref="char:EOLhyphen"/>ſolves her from the great ſcruple Women make of Whoredoms being a great ſin, he tells her he'll take that ſin to himſelf; as for the other ſcruple that Wo<g ref="char:EOLhyphen"/>men have of looſing their reputation and ſpoiling their fortunes, there is no ſuch thing amongſt them, for if a Man gets a Woman with Child, that does not paſs for a Proſtitute, he is only to keep the Child and give the Wench a Portion (if ſhe has nothing of her own) who Marries and is not a bit the worſe looked upon.</p>
+            <p>Women have another advantage in this Coun<g ref="char:EOLhyphen"/>trey, for after they are Contracted and all mat<g ref="char:EOLhyphen"/>ters ſettled, and the day of Marriage agreed on; ſhe has the Liberty to deſire her Bridegroom to come and ſhow himſelf a Man: and if ſhe does not find him to her ſatisfaction the Contract is void, and ſhe's a good Maid ſtill.</p>
+            <p>
+               <pb n="17" facs="tcp:95515:13"/>They bring up ſome of their Young Women to Play on the <hi>Spaniſh</hi> Harp, for which they let their Nails grow ſo long that it looks ſtrange<g ref="char:EOLhyphen"/>ly.</p>
+            <p>They do not allow of any Bawdy Houſes, but e<g ref="char:EOLhyphen"/>very ſtreet, in a dark Night, ſerves their turn, and he muſt look to himſelf that diſturbs them, or ſpoils ſport.</p>
+            <p>Every Sunday and Holiday, the ordinary ſort of them have a Dance on the Market Place, thus,</p>
+            <p>There are three Drums and Pipes, the Drum Major who has the bigeſt Drum, which is about the bigneſs of a childs Drum, is the common Hangman; there they whiſtle with one hand, and beat their Drums with the other, till there is a Ring made, when one of the nimbleſt of the fellows goes into the middle of the Ring, a ſhows his Activity, takes out of the Ring a Wench, ſhe her Mate, and ſo it goes round; the firſt fellow leads the brandle, and all Dance and ſhow their Parts for an hour. The Coopers, who are numerous here, on Saint <hi>Andrews-Day</hi> their Pa<g ref="char:EOLhyphen"/>tron, go a Maskquerading all Day, and Play twenty tricks ridiculous enough, and would not work that
+<pb n="18" facs="tcp:95515:14"/>day for any reward, but they make it up at other times, for they are at work before day.</p>
+            <p>The Country all round abounds with Oak, proper for the Staves, and Cheſnut Trees, of which they make the Hoops, for Cask; there is alſo great Numbers of Cask made in the Country, and at <hi>Paſſage,</hi> and brought to Saint <hi>Schaſtian</hi> empty on Mules.</p>
+            <p>There is near to the Town the Convent of Saint <hi>Auſtin,</hi> a Nunnery of Women, where there is to be ſeen the Corps of a Woman dean hun<g ref="char:EOLhyphen"/>dreds of years ago, her Arms, Legs and Face, ap<g ref="char:EOLhyphen"/>pers as full as if ſhe had been Buried but ye<g ref="char:EOLhyphen"/>ſterday; ſhe looks Tawny, and I believe has been ſerved <hi>Mummey</hi>-like; when they were digging the Foundation of this Monaſtery they found this Corps, which they pray to.</p>
+            <p>The chief Trade of the Town is Iron, Wine and Oyl.</p>
+            <p>Their Iron Mills are near to the Town, and their Iron Bars are brought to the Town on Horſes or Mules, on Crookſaddles to the publick
+<hi>Magaſine,</hi> which is under the Town, Hall, where<pb n="19" facs="tcp:95515:14"/>conſtant attendance is given for receiving it out of the Country, and delivering and weighing it to the Buyer. Our Tin Men in <hi>Cornwall</hi> are here ſupplyed with their ſtamps, and other Utenſils for the carrying on their work.</p>
+            <p>All other Merchandiſes, except Iron, are drawn on Sledges, by two Oxen, in and out of the Town.</p>
+            <p>They deal ſomewhat in train Oyl and Whale<g ref="char:EOLhyphen"/>bone, they have ſome Ships that go to the <hi>North-ward</hi> a Whale fiſhing, beſides they catch ſome in ſight of the Caſtle; and in order to this, ſome Months in the Year, they hire a Man that looks out continually from the top of the Hill, betwixt Saint <hi>Sebaſtian</hi> and <hi>Paſſage,</hi> who when he ſees a Whale or Bottlenoſe, makes a ſign to the Caſtle, the Sentinal from the Caſtle advertiſes, by his Bell, the Town, immediately the Fiſhermen upon that go forth to the Prey; There was a Botlenoſe, about the bigneſs of that which was brought up to <hi>Greenwich,</hi> brought in to Saint
+<hi>Se<g ref="char:EOLhyphen"/>baſtian</hi> in <hi>November</hi> laſt, out of whom they got a great quantity of that which they call <hi>Sperma Ceti;</hi> the fleſh was boy led to Oyl.</p>
+            <p>
+               <pb n="20" facs="tcp:95515:15"/>They have alſo ſome Trade to <hi>Newfound Land,</hi> but with that ſort of Fiſh (<hi>Cabelau</hi> they call it) they are better ſupplyed from other Nations than by their own Ships.</p>
+            <p>The great quantity of <hi>Pilchards</hi> caught on the Coaſt of
+<hi>Galicia,</hi> is a mighty help to this part of <hi>Spain,</hi> of which they are great <hi>Lovers,</hi> and are in more eſteem with them than
+<hi>Herrings.</hi>
+            </p>
+            <p>But the more remarkable Trade of the Town at preſent, and that which brings moſt Money to the Town, is the Wine Trade.</p>
+            <p>The late War with <hi>France,</hi> from whence we were ſupplyed with their excellent <hi>Grave Medoc</hi> and <hi>Pontack</hi> Wines, occaſioned our Parliament to put ſuch a great Duty on <hi>French</hi> Wines, and o<g ref="char:EOLhyphen"/>ther Liquors of the Growth of <hi>France;</hi> that Mer<g ref="char:EOLhyphen"/>chants have looked out how to be ſupplyed o<g ref="char:EOLhyphen"/>therwiſe, that they may pay eaſier Duties; and luckily they have light upon a ſpot of ground, Called the
+<hi>Spaniſh Navar,</hi> of which <hi>Panplone, Ab<g ref="char:EOLhyphen"/>litas</hi> and <hi>Villa Franka,</hi> are the chief Towns, that affords us as good Wines as any
+<hi>French</hi> Wines; and the <hi>Spaniards</hi> of late both at Saint
+<hi>Sebaſtian, Paſſage, Fonteravia</hi> and <hi>Guitaria,</hi> finding ſuch a<pb n="21" facs="tcp:95515:15"/>demand for Wines, and conſiderable profit by them, have improved their Vineyards to ſo great a degree, both in quantity as well as quality of good Wines, that their improvement equals, if not exceeds that of <hi>Portugal;</hi> which before the War was not able to furniſh us with above three or four hundred Pipes in a Year, and now there is above ten Thouſand Pipes a Year Imported from thence, which appears from the Cuſtom Houſe Books.</p>
+            <p>This will not be allowed by ſome, but it is ve<g ref="char:EOLhyphen"/>ry true: one ſhall fee at Saint <hi>Sebaſtian</hi> Mules by hundreds Loaded with Wine in Hogskins, three skins upon a Mule containing ten Gallons each, come every day into Town (Sunday not excep<g ref="char:EOLhyphen"/>ted) all this is unloaded in the
+<hi>Magaſines</hi> and ſor<g ref="char:EOLhyphen"/>ted, and next day put into Cask, the Mules car<g ref="char:EOLhyphen"/>ry away the empty skins into the Country for more.</p>
+            <p>This is not only done at Saint <hi>Sebaſtian,</hi> but alſo at
+<hi>Fonteravia, Paſſage,</hi> and <hi>Guitaria,</hi> from theſe places they come to Saint <hi>Sebastian</hi> in <hi>Bar<g ref="char:EOLhyphen"/>ques,</hi> and <hi>Bargo Longos,</hi> (becauſe of the Conveni<g ref="char:EOLhyphen"/>ency of Sea Carriage) in Cask, and are Lodged in Merchants Cellers ready for the buyer.</p>
+            <p>
+               <pb n="22" facs="tcp:95515:16"/>The truth of all this is ſo well known in
+<hi>England,</hi> from the care the Commiſſioners of the Cuſtoms took, in ſending over two of their Officers to examin into the truth of it, and from ſome Tryals at the <hi>Exche<g ref="char:EOLhyphen"/>quer Bar,</hi> that it cannot be further queſtioned.</p>
+            <p>Beſides, for all wines Ship'd off from Saint
+<hi>Seba<g ref="char:EOLhyphen"/>ſtian,</hi> the Maſters of Ships are obliged to take Cer<g ref="char:EOLhyphen"/>tificates from the Mayor and Conſul, as a ſufficient Teſtimony that their wines are of the Growth of <hi>Navar,</hi> in his Catholick Majeſties Dominions, given under the great Seal of the</p>
+            <p>
+               <hi>Moſt Noble and Moſt Loyal City of Saint</hi> Sebaſtian.</p>
+            <p>And undeſigned by their Sworn Matter Cooper, <hi>Signior Nicola</hi> and his Aſſiſtants, that the very Cask are made by them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95515:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
